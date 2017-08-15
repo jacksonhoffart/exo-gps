@@ -1,0 +1,21 @@
+Transit fitting stats:
+
+Initial chain length: 20,000
+Number of walkers: 10 x 3dims = 30 walkers
+
+Mean Acceptance Fraction: 0.58951
+Highest Autocorrelation Time: 56.63
+
+burnin: 5000
+Autocorrelation correction: 57
+
+Final number of samples in chain: 7920
+
+Maximum lnP: -0.224439710742 NOT ON RIGHT SCALE!
+Maximum lnP params: 4.33798017e+04,   3.33666294e+03,   1.04648776e-02
+
+True params: 43481.259847605601, 3212.564592471153, 0.010090611165614426
+
+t0 (median, +/-): (43237.3542511, 1762.55542032, 1949.8694106)
+hwidth_t (median, +/-): (4431.34975, 3378.445660, 1908.772607638)
+depth_t (median, +/-): (0.00750898, 0.004365024, 0.003444194)

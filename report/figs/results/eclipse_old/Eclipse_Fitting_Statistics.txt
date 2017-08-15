@@ -1,0 +1,20 @@
+Eclipse fitting stats:
+
+Initial chain length: 20,000
+Number of walkers: 10 x 2dims = 20 walkers
+
+Mean Acceptance Fraction: 0.64060
+Highest Autocorrelation Time: 60.09
+
+Burn in: 5000
+Autocorrelation correction: 60
+
+Final number of samples in chain: 5000
+
+Best lnP: -2.28649050143
+Best params: [  5.22148407e+03   1.22896185e-03]
+
+True params: (2607.910724, 0.0006466147159)
+
+hwidth_e (median, +/-): (8985.052206, 11449.76538, 6254.093312)
+depth_t (median, +/-): (0.00102603671, 0.000776081566, 0.00056764695)
