@@ -1,5 +1,5 @@
 # exo-gps
-** Fit noisy exoplanet photometry using Gaussian Processes **
+Fit noisy exoplanet photometry using Gaussian Processes
 
 ## content
 
