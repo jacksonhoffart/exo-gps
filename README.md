@@ -1,7 +1,7 @@
 # exo-gps
 ** Fit noisy exoplanet photometry using Gaussian Processes **
 
-## Content
+## content
 
 **./main/**: main code </br>
 **./data/**: synthetic data </br>
