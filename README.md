@@ -3,7 +3,8 @@ Fit noisy exoplanet photometry using Gaussian Processes
 
 ## content
 
-**./main/**: main code </br>
+**./bliss/**: bliss code (original by Joel Schwartz)
 **./data/**: synthetic data </br>
-**./mock_spitzer/**: generate mock Spizter photometry (written by Joel Schwartz) </br>
+**./main/**: main code </br>
+**./mock_spitzer/**: generate mock Spizter photometry (original by Joel Schwartz) </br>
 **./report/**: final report </br>
